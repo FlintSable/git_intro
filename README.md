@@ -1,2 +1,3 @@
 Nicholas Noochla-or
-noochlan@oregonstate.edu
+noochlan@oregonstate.ed
+blue
